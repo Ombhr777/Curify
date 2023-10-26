@@ -1,9 +1,10 @@
 import streamlit as st
- 
+from flask import flask
 
 
-about_us = """
-
+about_us = <div class="container">
+</div>
+"""   
         <section class="about">
         <h1>About Us</h1>
         <p style="font-weight: bold">GeeksforGeeks is a leading platform...</p>
